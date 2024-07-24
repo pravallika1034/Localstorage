@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: cadetblue;
+    height: 97vh;
+}
+.container{
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+  align-items: center;
+}
